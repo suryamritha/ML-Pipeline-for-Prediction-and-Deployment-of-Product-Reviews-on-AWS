@@ -3,5 +3,6 @@ In the current advanced world, e-commerce comes into the limelight by providing 
 
 https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews?resource=download
 amazon product reviews
+![image](https://github.com/user-attachments/assets/3aeeb5ab-a9cd-4483-ac9f-753b57d460f6)
 
 
